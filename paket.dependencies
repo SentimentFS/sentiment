@@ -9,3 +9,4 @@ nuget TaskBuilder.fs
 nuget Giraffe
 nuget Expecto
 nuget System.IdentityModel.Tokens.Jwt
+nuget Microsoft.ML

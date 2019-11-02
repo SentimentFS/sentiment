@@ -8,4 +8,8 @@
     <Compile Include="Library.fs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Sentiment.Domain\Sentiment.Domain.fsproj" />
+  </ItemGroup>
+
 </Project>
